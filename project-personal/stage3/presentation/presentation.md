@@ -34,12 +34,11 @@ header-includes:
 :::::::::::::: {.columns align=center}
 ::: {.column width="70%"}
 
-  * Кулябов Дмитрий Сергеевич
-  * д.ф.-м.н., профессор
-  * профессор кафедры прикладной информатики и теории вероятностей
+  * Ибатулина Дарья Эдуардовна
+  * студентка группы НКАбд-01-22
   * Российский университет дружбы народов
-  * [kulyabov-ds@rudn.ru](mailto:kulyabov-ds@rudn.ru)
-  * <https://yamadharma.github.io/ru/>
+  * [1132226434@pfur.ru](mailto:1132226434@pfur.ru)
+  * <https://deibatulina.github.io>
 
 :::
 ::: {.column width="30%"}
